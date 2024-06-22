@@ -3,3 +3,9 @@
 
 # Data files
 data/
+
+# API Keys
+*.key
+
+# Trained models
+models/
